@@ -13,7 +13,7 @@ Our project dives into this finding and offers a possible solution to the issue.
 [2 - Project Structure](#2---project-structure)<br>
 [3 - Data](#3---data)<br>
 [4 - Analysis](#4---analysis)<br>
-[5 - Results](5---results)#<br>
+[5 - Results](#5---results)<br>
 [6 - Visualisations](#6---visualisations)<br>
 [7 - Conclusions](#7---conclusions)<br>
 [8 - Acknowledgement](#8---acknowledgement)<br>
