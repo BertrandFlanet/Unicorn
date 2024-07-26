@@ -9,7 +9,7 @@ Our project dives into this finding and offers a possible solution to the issue.
 
 
 ### Table of Contents<br>
-(1 - Usage)[1----Usage]<br>
+[1 - Usage](#1----usage)<br>
 2 - Project Structure<br>
 3 - Data<br>
 4 - Analysis<br>
