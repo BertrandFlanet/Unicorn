@@ -5,8 +5,8 @@ Unicorn's platform allows people to buy products online: from books, toys, cloth
 We have been asked to analyze Unicorn's data, find interesting insights, and identify weak areas and opportunities for Unicorn to boost its business growth.
 <br>
 From our EDA, performed using SQL, and visualization produced in Tableau, we uncovered a key point of contention: a negative profit/discount correlation.
-Our project dives into this finding and offers a possible solution to the issue.
-
+Our project dives into this finding and offers a possible solution to the issue.<br>
+<br>
 
 ### Table of Contents<br>
 [1 - Usage](#1---usage)<br>
