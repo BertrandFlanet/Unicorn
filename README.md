@@ -34,12 +34,27 @@ Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb fi
 <br>
 
 ### 2 - Project Structure<br>
+```
+Unicorn/
+├── data/ # Reference to dataset and used aggregated dataset at various granularity level
+|   ├── Unicorn dataset.csv
+|   └── Unicorn_dataset_from_sql.csv
+|
+├── notebooks/ # Jupyter notebooks with the analysis/segmentation code
+│   └── Unicorn_EDA.ipynb
+│
+├── results/ # Output files, results, project report, .ppt presentation
+|   ├── City level.png
+|   ├── Discount solutioning.png
+|   ├── Product level.png
+|   ├── State level.png
+|   ├── Unicorn_presentation.pdf
+|   ├── Unicorn_Report.pdf
+|   └── Unicorn_viz_final_rework.twbx
+|
+└── README.md #  Project documentation
+```
 
-data/: Reference to dataset and used aggregated dataset at various granularity level
-notebooks/: Jupyter notebooks with the analysis/segmentation code
-results/: Output files, results, project report, .ppt presentation
-README.md: Project documentation<br>
-<br>
 
 ### 3 - data
 
