@@ -28,9 +28,11 @@ Jupyter Notebook: Install Jupyter, start it via terminal, and open the .ipynb fi
 .twb: Open with Tableau - Tableau Public installation - https://public.tableau.com/<br>
 <br>
 . If using another IDE, you will need the following libraries:<br>
-* pandas<br>
-* sqlalchemy<br>
-* psycopg2
+
+. python:
+  - pandas<br>
+  - sqlalchemy<br>
+  - psycopg2
 <br>
 
 ### 2 - Project Structure<br>
